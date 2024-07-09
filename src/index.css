@@ -111,6 +111,7 @@ p{
   .noma-culture-header {
     display: flex;
     flex-direction: column;
+    margin-top: 57px;
   }
   
   .noma-culture-section {
