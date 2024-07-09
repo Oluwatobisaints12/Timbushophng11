@@ -1,0 +1,99 @@
+body {
+  background-color: #E9F3FF;
+  margin: 0 auto;
+ }
+ @font-face {
+     font-family: 'MistleBold';
+     src: url('./fonts/MistleBold-Bold.ttf') format('truetype');
+  
+   }
+   @font-face {
+     font-family: 'HelveticaNeueLight';
+     src: url('./fonts/HelveticaNeueLight.otf') format('truetype');
+  
+   }
+   @font-face {
+     font-family: 'HelveticaNeueBold';
+     src: url('./fonts/HelveticaNeueBold.otf') format('truetype');
+  
+   }
+   @font-face {
+     font-family: 'HelveticaNeueMedium';
+     src: url('./fonts/HelveticaNeueMedium.otf') format('truetype');
+  
+   }
+   @import url('https://fonts.googleapis.com/css2?family=Helvetica+Neue&display=swap');
+   p, h1{
+    margin: 0;
+    padding: 0;
+   }
+.getoffer-big-con{
+  background-color: #0D1759;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding: 0 100px;
+  justify-content: space-between;
+}
+.getoffer-con{
+  max-width: 877px;
+  width: 57%;
+  margin-top: 153px;
+}
+.getoffer-img-con{
+  width: 47%;
+  max-width: 620px;
+}
+.getoffer-img{
+  width: 100%;
+}
+.getoffer-title{
+  font-size: clamp(16px, 5vw, 55px);
+}
+.getoffer-para{
+  margin-top: 30px;
+  font-size: clamp(10px, 5vw, 20px);
+  font-family: 'HelveticaNeueLight';
+  font-weight: 400;
+}
+.getoffer-button{
+  background-color: #E9F3FF;
+  border-radius: 20px;
+  border: none;
+  padding: 20px 115px;
+  align-items: center;
+  display: flex;
+  margin-top: 30px;
+  max-width: 356px;
+
+}
+.product-card-con{
+  display: flex;
+  flex-wrap: wrap;
+}
+.selector{
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  margin-top: 41px;
+  gap: 15px;
+
+  max-width: 295px;
+}
+.row{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  flex-direction: row;
+}
+.selector-heading{
+  font-size: 20px;
+  font-family: 'HelveticaNeueLight';
+  padding: 0;
+  margin: 0;
+}
+
+.selector-img{
+  width: 20px;
+  height: 20px;
+}

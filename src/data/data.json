@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "gownsImg": "Frame 15.svg",
+    "title": "African Print Bucket Hat And Side Bag",
+    "cost": "$75.99",
+    "rating": {
+      "star": "Star.svg",
+      "count": "4.5 (20)"
+    }
+  },
+  {
+    "id": 2,
+    "gownsImg": "Frame 15 (1).svg",
+    "title2": "Over Sized Beach Hat And Flay Dress",
+    "cost": "$75.99",
+    "rating2": {
+      "star2": "Star.svg",
+      "count2": "4.5 (20)"
+    }
+  },
+  {
+    "id": 3,
+    "gownsImg": "Frame 15 (2).svg",
+    "title3": "African Print Men Long Sleeve",
+    "cost": "$75.99",
+    "rating3": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    }
+ 
+  },
+  {
+    "id": 4,
+    "quoteImg": "Quote.svg",
+    "title": "Lorem ipsum dolor sit amet consectetur. Sed diam turpis ornare sed ut non sed. Dui egestas dictumst dolor libero lacus at semper congue. Adipiscing in in nisi neque ipsum et dictum sed. Amet sollicitudin eu molestie tellus amet.",
+    "coverImage": "Mask group.svg",
+     "name": "Mercy Nwanzi",
+     "reviewCount": "Star.svg"
+
+  },
+  {
+    "id": 5,
+    "quoteImg": "Quote.svg",
+    "title": "Lorem ipsum dolor sit amet consectetur. Sed diam turpis ornare sed ut non sed. Dui egestas dictumst dolor libero lacus at semper congue. Adipiscing in in nisi neque ipsum et dictum sed. Amet sollicitudin eu molestie tellus amet.",
+    "coverImage": "Mask group.svg",
+     "name": "Mercy Nwanzi",
+     "reviewCount": "Star.svg"
+
+  },
+  {
+    "id": 6,
+    "quoteImg": "Quote.svg",
+    "title": "Lorem ipsum dolor sit amet consectetur. Sed diam turpis ornare sed ut non sed. Dui egestas dictumst dolor libero lacus at semper congue. Adipiscing in in nisi neque ipsum et dictum sed. Amet sollicitudin eu molestie tellus amet.",
+    "coverImage": "Mask group.svg",
+    "name": "Mercy Nwanzi",
+    "reviewCount": "Star.svg"
+  },
+  {
+    "id": 7,
+    "gownsImg": "Frame 54.svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 8,
+    "gownsImg": "Frame 54 (1).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 9,
+    "gownsImg": "Frame 54 (2).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 10,
+    "gownsImg": "Frame 54 (3).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 11,
+    "gownsImg": "Frame 54 (4).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 12,
+    "gownsImg": "Frame 54 (5).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 13,
+    "gownsImg": "Frame 54 (6).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 14,
+    "gownsImg": "Frame 54 (7).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "star3": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 15,
+    "gownsImg": "Frame 54 (8).svg",
+    "gowntitle": "Wing dress with traditional cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  }
+
+]
