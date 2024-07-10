@@ -4,7 +4,7 @@ import GownProductList from './GownProductList'
 
 const ProductList = () => {
   return (
-    <div>
+    <div style={{display: 'flex', flexDirection: 'row'}}>
       <Sidebar />
       <GownProductList />
     </div>
