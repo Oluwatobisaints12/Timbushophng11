@@ -49,6 +49,12 @@ body {
     width: 30px;
     height: 30px;
 }
+.profile_img, .search_img, .love_img, .shopping_img, .notification_img:hover{
+  cursor: pointer;
+}
+button:hover{
+  cursor: pointer;
+}
 .header_secondary{
     justify-content: center;
     display: flex;
@@ -57,22 +63,37 @@ body {
     border-bottom: 0.5px solid #0D1759;
     margin: 12px 0 ;
 }
-nav ul li {
+.header_secondary, li {
     list-style-type: none; 
+    text-decoration: none;
 }
-ul li a{
+/* ul li a{
     list-style-type: none;
     text-decoration: none;
     font-family: 'MistleBold', sans-serif;
     color: #172654;
     font-weight: 700;
     font-size: 24px;
+} */
+
+.header_secondary, .hero_list > nav {
+    display: flex;
+}
+.header_secondary, .hero_list > a{
+  color: #1E1E1ECC;
+  list-style-type: none;
+    text-decoration: none;
+    font-family: 'MistleBold', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+.header_secondary, .hero_list > a:hover{
+  color: #172654;
+
 }
 
-nav {
-    display: flex;
-    max-width: 40%;
-    width: 100%;
+.header_secondary > nav{
+  width: 39%;
 }
 ul{
     display: flex;
@@ -154,14 +175,14 @@ background-color: #E9F3FF;
 border-top-left-radius: 20px;
 bottom: 8px;
 right: 0px;
-padding: clamp(10px, 2vw, 23px) clamp(12px, 3vw, 24px);
+padding: clamp(10px, 1vw, 23px) clamp(12px, 1vw, 24px);
 
 }
 .absolute-button{
   display: flex;
   align-items: center;
   background: #0D1759;
-  padding: 12px 44px;
+  padding: clamp(6px, 2vw, 12px) clamp(20px, 2vw, 44px);
   border-radius: 20px;
   justify-content: center;
   color: white;
@@ -424,6 +445,9 @@ margin-top: 92px;
   justify-content: center;
   gap: 50px;
 }
+.pagination-arrow:hover{
+  cursor: pointer;
+}
 
 .product-button .product-img {
   transition: background-color 0.3s ease;
@@ -571,7 +595,7 @@ section{
 }
 .border-bottom-line{
   border-bottom: 0.5px solid white ;
-  margin-top: 45px ;
+  margin-top: 97px ;
 }
 .footer-left-con{
   width: 29%;
@@ -618,8 +642,16 @@ h1{
   margin: 0;
   font-size: 24px;
 }
-.footer-con p, span, a{
+.footer-con , span, a{
   font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: 
+  #FFFFFF;
+  text-decoration: none;
+  margin-top: 15px;
+}
+.footer-fourth-con > p, .footer-third-con > p, .footer-sec-mid-con > p{
   font-weight: 400;
   font-size: 16px;
   color: 

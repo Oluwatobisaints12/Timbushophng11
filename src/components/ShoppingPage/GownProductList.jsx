@@ -37,7 +37,7 @@ const GownProductList = () => {
   );
 
   return (
-   <div>
+   <div className='product-list-con-col'>
     <section className='selector'>
 <div className='row'>
 <h2 className='selector-heading'>Shop</h2>
@@ -53,7 +53,9 @@ const GownProductList = () => {
 </div>
 
 </section>
-     <div className='product-card-con'>
+<h1 className='gown-hero-title'>Gowns</h1>
+
+     <main className='gown-product-card-con'>
       {filteredGownProducts.map((product, index) => (
         <div key={index} className="product-container">
           {product.gownsImg && (
@@ -84,7 +86,7 @@ const GownProductList = () => {
           </button>
         </div>
       ))}
-    </div>
+    </main>
    </div>
   );
 }

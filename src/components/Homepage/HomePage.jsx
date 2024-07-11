@@ -10,7 +10,6 @@ import Footer from './Footer'
 const HomePage = () => {
   return (
     <div>
-      <Header />
       <NomaCulture />
       <Aboutus />
       <ShoppingStyle />

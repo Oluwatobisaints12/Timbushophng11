@@ -8,7 +8,6 @@ import ProductList from './ProductList'
 const ShoppingPage = () => {
   return (
     <div>
-      <Header />
       <GetOffer />
       <ProductList />
       <Footer />

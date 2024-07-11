@@ -28,14 +28,23 @@ const Header = () => {
 
       </section>
       <section className='header_secondary'>
-         <nav>
+        <nav>
           <ul>
-            <li className='hero_list'><a href="">Home</a></li>
-            <li className='hero_list'><a href="">About</a></li>
-            <li className='hero_list'><Link to="/shoppingPage">Shop</Link></li>
-            <li className='hero_list'><a href="">Testimonials</a></li>
+            <li className='hero_list'>
+              <Link to="/">Home</Link>
+      
+            </li>
+            <li className='hero_list'>
+              <Link to="/about">About</Link>
+            </li>
+            <li className='hero_list'>
+              <Link to="/shoppingPage">Shop</Link>
+            </li>
+            <li className='hero_list'>
+              <Link to="/testimonials">Testimonials</Link>
+            </li>
           </ul>
-         </nav>
+        </nav>
       </section>
     </header>
   )

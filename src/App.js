@@ -1,17 +1,22 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Router, Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './components/Homepage/HomePage';
+
 import ShoppingPage from './components/ShoppingPage/ShoppingPage';
+import Header from './components/Homepage/Header';
+import Layout from './components/Layout';
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-
-        <Route path="/shoppingPage" element={<ShoppingPage to="/" />} />
+    <BrowserRouter>
+            <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<HomePage />} />
+          <Route path="shoppingPage" element={<ShoppingPage />} />
+        </Route>
+        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 

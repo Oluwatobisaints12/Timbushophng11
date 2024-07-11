@@ -139,7 +139,7 @@
     "gowntitle": "Wing dress with traditional cap",
     "gowncost": "$75.99",
     "gownrating": {
-      "star3": "Star.svg",
+      "gownstar": "Star.svg",
       "previwcount": "4.5 (20)"
     },
     "buttonText": "Add to Cart"
