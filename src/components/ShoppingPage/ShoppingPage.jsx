@@ -4,6 +4,7 @@ import GetOffer from './GetOffer'
 import GownProductList from './GownProductList'
 import Footer from './Footer'
 import ProductList from './ProductList'
+import PostData from './PostData'
 
 const ShoppingPage = () => {
   return (
@@ -11,6 +12,7 @@ const ShoppingPage = () => {
       <GetOffer />
       <ProductList />
       <Footer />
+
     </div>
   )
 }

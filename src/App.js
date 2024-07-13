@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { BrowserRouter, Router, Routes, Route, Navigate } from 'react-router-dom';
 import HomePage from './components/Homepage/HomePage';
 
@@ -7,6 +7,8 @@ import Header from './components/Homepage/Header';
 import Layout from './components/Layout';
 
 function App() {
+ 
+
   return (
     <BrowserRouter>
             <Routes>
@@ -14,7 +16,6 @@ function App() {
           <Route index element={<HomePage />} />
           <Route path="shoppingPage" element={<ShoppingPage />} />
         </Route>
-        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </BrowserRouter>
   );

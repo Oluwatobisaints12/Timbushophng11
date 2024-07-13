@@ -59,7 +59,7 @@
   {
     "id": 7,
     "gownsImg": "Frame 54.svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -70,7 +70,7 @@
   {
     "id": 8,
     "gownsImg": "Frame 54 (1).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -81,7 +81,7 @@
   {
     "id": 9,
     "gownsImg": "Frame 54 (2).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "gownsImg": "Frame 54 (3).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -103,7 +103,7 @@
   {
     "id": 11,
     "gownsImg": "Frame 54 (4).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -114,7 +114,7 @@
   {
     "id": 12,
     "gownsImg": "Frame 54 (5).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -125,7 +125,7 @@
   {
     "id": 13,
     "gownsImg": "Frame 54 (6).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -136,7 +136,7 @@
   {
     "id": 14,
     "gownsImg": "Frame 54 (7).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",
@@ -147,7 +147,205 @@
   {
     "id": 15,
     "gownsImg": "Frame 54 (8).svg",
-    "gowntitle": "Wing dress with traditional cap",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 7,
+    "gownsImg": "Frame 54.svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 8,
+    "gownsImg": "Frame 54 (1).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 9,
+    "gownsImg": "Frame 54 (2).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 10,
+    "gownsImg": "Frame 54 (3).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 11,
+    "gownsImg": "Frame 54 (4).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 12,
+    "gownsImg": "Frame 54 (5).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 13,
+    "gownsImg": "Frame 54 (6).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 14,
+    "gownsImg": "Frame 54 (7).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 15,
+    "gownsImg": "Frame 54 (8).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 7,
+    "gownsImg": "Frame 54.svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 8,
+    "gownsImg": "Frame 54 (1).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 9,
+    "gownsImg": "Frame 54 (2).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 10,
+    "gownsImg": "Frame 54 (3).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 11,
+    "gownsImg": "Frame 54 (4).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 12,
+    "gownsImg": "Frame 54 (5).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 13,
+    "gownsImg": "Frame 54 (6).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 14,
+    "gownsImg": "Frame 54 (7).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
+    "gowncost": "$75.99",
+    "gownrating": {
+      "gownstar": "Star.svg",
+      "previwcount": "4.5 (20)"
+    },
+    "buttonText": "Add to Cart"
+  },
+  {
+    "id": 15,
+    "gownsImg": "Frame 54 (8).svg",
+    "gowntitle": "Wing Dress With Traditional Cap",
     "gowncost": "$75.99",
     "gownrating": {
       "gownstar": "Star.svg",

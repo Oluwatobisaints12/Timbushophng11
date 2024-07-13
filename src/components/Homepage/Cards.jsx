@@ -17,7 +17,7 @@ const images = {
 
 const Cards = () => {
     const [isHover, setIsHover] = useState(false)
-    const products = data.filter(product => product.coverImg);
+    const products = data.filter(product => product.coverImage);
 
     return (
         <div className='product-card-big-con'>
@@ -28,7 +28,7 @@ const Cards = () => {
           <div className='product-card-con'>
           {products.map((product, index) => (
                 <div key={index} className="product-container">
-                    {product.coverImg && (
+                    {product.coverImage && (
                         <img
                             src={images[product.coverImg]}
                             alt={product.title || product.title2 || product.title3}

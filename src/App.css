@@ -47,12 +47,15 @@ body {
 .getoffer-img{
   width: 100%;
 }
+.getoffer-img2{
+  display: none;
+}
 .getoffer-title{
   font-size: clamp(16px, 3vw, 55px);
 }
 .getoffer-para{
   margin-top: 30px;
-  font-size: clamp(10px, 3vw, 20px);
+  font-size: clamp(10px, 1vw, 20px);
   font-family: 'HelveticaNeueLight';
   font-weight: 400;
 }
@@ -60,7 +63,7 @@ body {
   background-color: #E9F3FF;
   border-radius: 20px;
   border: none;
-  padding: clamp(15px, 2vw, 20px) clamp(50px, 5vw, 115px);
+  padding: clamp(10px, 1vw, 20px) clamp(23px, 2vw, 115px);
   align-items: center;
   display: flex;
   margin-top: 30px;
@@ -127,7 +130,6 @@ aside > nav{
 .category-bottom-line{
   border-bottom: 0.5px solid #1E1E1E;
   margin-top: 41px;
-  width: 365px;
 }
 .side-input-row{
   display: flex;
@@ -194,12 +196,15 @@ font-size: 24px;
 main .product-name, .product-cost{
   font-size: 20px;
 }
+.product-cost-none{
+  display: none;
+}
 .gown-product-card-con{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-left: 30px;
   justify-content: space-between;
-  margin:  0 100px 0 32px;
 }
 .gown-hero-title{
   color: #000000;
@@ -215,14 +220,83 @@ main .product-name, .product-cost{
   color: #1E1E1E;
   cursor: pointer;
 }
-/* main {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  width: 100%;
-}
 .product-list-con-col{
+  width: 71%;
+}
+@media (max-width: 431px) {
+  aside{
+    display: none;
+  }
+  .gown-product-card-con {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px; /* Adjust the gap between items as needed */
+  }
+  .getoffer-big-con{
+    padding: 0;
+  }
+  .getoffer-con{
+    margin: 0;
+  }
+  .getoffer-title{
+    margin-left: 24px;
+    margin-top: 44px;
+  }
+  .getoffer-img-con{
+    margin-top: 13px;
+    display: flex;
+  }
+  .getoffer-para{
+    margin-top: 16px;
+    margin-left: 24px;
+  }
+  .getoffer-button{
+    margin-top: 24px;
+    margin-left: 24px;
+
+  }
+  .getoffer-img, .product-cost{
+    display: none;
+  }
+  .getoffer-img2{
+    align-self: flex-end;
+    /* width: 100%; */
+    display: flex;
+  }
+  
+
+.gown-product-card-con{
+  margin: 0;
+}
+.product-name-con{
   display: flex;
   flex-direction: column;
-  width: 71%;
-} */
+}
+main .product-name, .product-cost{
+  font-size: 18px;
+}
+.product-list-con-col{
+  width: 100%;
+  padding: 0 24px;
+}
+.gown-hero-title{
+  margin-left: 0;
+}
+.selector{
+  margin-left: 0;
+  margin-top: 23px;
+  max-width: 236px;
+}
+.product-cost-none{
+  display: flex;
+  font-size: 18px;
+  font-family: 'HelveticaNeueBold';
+  font-weight: 700;
+  color: #1E1E1E;
+  order: 2;
+}
+}
+.page-item >a{
+color: #000;
+
+}
